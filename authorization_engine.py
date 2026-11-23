@@ -307,7 +307,7 @@ def evaluate_authorization_request(
             rule_id=result["rule_id"],
             rule_description=result["rule_description"],
             risk_level=result["risk_level"],
-            execution_notes=result["reason"]
+            execution_notes=result["reason"] 
         )
 
     return result
