@@ -240,4 +240,10 @@ When presenting this project to your professor or viva panel, use this structure
 ## 11. Academic Simulation Disclaimer
 
 > **Important Academic Notice:**  
-> This project is an academic prototype created independently by **Vansh Sharma (Enrolment: PGD202562849)** for educational evaluation in the **AI & Digital Transformation** MBA course. It is a simulation inspired by JPMorgan Chase Bank's public AI transformation initiatives and does not use proprietary banking infrastructure, real customer data, or live monetary settlement systems.
+> This project is an academic prototype created independently by **Vansh Sharma (Enrolment: PGD202562849)** for educational evaluation in the **AI & Digital Transformation** MBA course. It is a simulation inspired by JPMorgan Chase Bank's public AI transformation initiatives and does not use proprietary banking infrastructure, real customer data, or live monetary settlement systems.## Project Highlights
+- AI Agent Registration
+- Agent Authorization
+- Agent Revocation
+- Risk-Based Decision Making
+- Audit Log Monitoring
+- Automated Testing
