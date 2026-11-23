@@ -176,7 +176,7 @@ def print_cli_test_report():
     for r in results:
         res_str = "[PASS]" if r["passed"] else "[FAIL]"
         if not r["passed"]:
-            all_passed = False
+            all_passed = False 
         print(f"{r['test_id']:<6} {r['test_name'][:24]:<25} {r['expected_decision']:<14} {r['actual_decision']:<14} {r['actual_rule']:<6} {res_str:<8}")
 
     print("-" * 85)
